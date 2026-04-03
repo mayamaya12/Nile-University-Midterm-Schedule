@@ -65,7 +65,7 @@ Student IDs are hashed before being written to `data.json`. Raw IDs are never co
 
 Got a suggestion or found a bug? Open an issue or submit a pull request — contributions are welcome.
 <img width="1217" height="1247" alt="image" src="https://github.com/user-attachments/assets/b52a1012-924b-4464-8be6-fc5fe8d37441" />
-
+https://nu-exams-schedule.netlify.app/
 
 ---
 
